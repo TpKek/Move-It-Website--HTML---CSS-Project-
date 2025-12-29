@@ -2,6 +2,12 @@
 
 A modern, responsive website for Move It, a professional moving company serving customers across the United States. Built with Bootstrap 5 for a clean, professional appearance and excellent mobile experience.
 
+## 📸 Screenshots
+
+![Move It Website Homepage](screenshot.png)
+
+*Desktop view of the Move It website homepage showcasing the hero section, navigation, and service features.*
+
 ## 🌟 Features
 
 - **Responsive Design**: Optimized for all devices using Bootstrap's grid system
@@ -23,6 +29,8 @@ A modern, responsive website for Move It, a professional moving company serving 
 ```
 Move-It-Website/
 ├── index.html          # Main website file
+├── README.md           # Project documentation
+├── screenshot.png      # Website screenshot for documentation
 ├── box-seam.svg        # Logo icon
 ├── briefcase.svg       # Professional services icon
 ├── bus-front.svg       # Countrywide service icon
@@ -56,6 +64,12 @@ Move-It-Website/
 3. **Open the website:**
    - Simply open `index.html` in your web browser
    - Or serve it with a local server for better development experience
+
+4. **Add a screenshot (optional):**
+   - Open `index.html` in your browser
+   - Take a screenshot of the homepage
+   - Save it as `screenshot.png` in the project root
+   - The screenshot will automatically appear in the README
 
 ### Local Development Server
 
